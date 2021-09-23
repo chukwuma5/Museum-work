@@ -12,7 +12,7 @@
 ## pictures of this Work
  ##An Example##
  
-<img src="picels1.png">
+<img src="picels2.png">
 
 <img src="picels10.png">
 
@@ -30,14 +30,15 @@
 <img src="picels4.png">
 
 ##DIFFERENT SCREEN SIZES
-
  ##Larger screen sizes##
-<img src="picels1.png">
+ 
+<img src="picels2.png">
 
 <img src="picels5.png">
 
 
  ##smaller screen sizes##
+ 
 <img src="picels10.png">
 
 <img src="picels6.png">

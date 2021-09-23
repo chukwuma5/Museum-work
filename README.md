@@ -30,6 +30,7 @@
 <img src="picels4.png">
 
 ##DIFFERENT SCREEN SIZES
+
  ##Larger screen sizes##
  
 <img src="picels2.png">

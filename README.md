@@ -11,6 +11,7 @@
 
 ## pictures of this Work
  ##An Example##
+ 
 <img src="picels1.png">
 
 <img src="picels10.png">
@@ -33,11 +34,11 @@
  ##Larger screen sizes##
 <img src="picels1.png">
 
-<img src="picels10.png">
+<img src="picels5.png">
 
 
  ##smaller screen sizes##
-<img src="picels5.png">
+<img src="picels10.png">
 
 <img src="picels6.png">
 
@@ -56,7 +57,7 @@
    ## Installations
    -For those Farmiliar with Git-hub you can clone the repo and pull to your local workplace to view.
 
-   -For those who want to view you can click the link to view the file from here [], Thank you once again.
+   -For those who want to view you can click the link to view the file from here [https://jmp.sh/NyvRBnZ], Thank you once again.
   
 
    ## Best syntax Used
@@ -71,9 +72,9 @@
 
    -For the icons[https://fontawesome.com/v5.15/icons/instagram?style=brands] and svg's in the folder.
 
-  -For the images[]
+  -For the images[https://unsplash.com/]
 
-  -For the fonts[]
+  -For the fonts[https://fonts.google.com/?sort=popularity&query=qui]
 
 
  ## Licsense 
